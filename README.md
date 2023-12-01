@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raghvendra-26
-- 👀 I’m interested in Web Development and Artificial intelligence.
-- 🌱 I’m currently learning Web Development,Python and C++ .
+- 👀 I’m interested in Web Development and DSA.
+- 🌱 I’m currently learning Web Development,JAVA.
 - 💞️ I’m looking to collaborate on the topics mentioned above.
 - 📫 Reach me on my mail 26rsr0104@gmail.com
 
